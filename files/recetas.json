@@ -1,0 +1,38 @@
+[
+    {
+        "-TITULO-": 0,
+        "-COMPLEJIDAD-": "asd",
+        "-TIEMPO-": "234234",
+        "-INGREDIENTES-": "234234234",
+        "-RECETA-": "234234234",
+        "-CATEGORIA-": "tipo1",
+        "id": 1
+    },
+    {
+        "-TITULO-": "TEST1",
+        "-CATEGORIA-": "Aves y caza",
+        "-COMPLEJIDAD-": "MEDIA",
+        "-TIEMPO-": 60,
+        "-INGREDIENTES-": "VARIAS COSAS",
+        "-RECETA-": "QUE TAL PASCUAL",
+        "id": 2
+    },
+    {
+        "-TITULO-": "test",
+        "-CATEGORIA-": "Aperitivos y tapas",
+        "-COMPLEJIDAD-": "asf",
+        "-TIEMPO-": 54,
+        "-INGREDIENTES-": "sdf",
+        "-RECETA-": " sadfsd fsdf",
+        "id": 3
+    },
+    {
+        "-TITULO-": "test",
+        "-CATEGORIA-": "C\u00f3cteles y bebidas",
+        "-COMPLEJIDAD-": "3",
+        "-TIEMPO-": 56,
+        "-INGREDIENTES-": "ergee",
+        "-RECETA-": " fgdfg",
+        "id": 4
+    }
+]
