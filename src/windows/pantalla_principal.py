@@ -9,10 +9,7 @@ def build():
     #poner primero el theme sino no funca
     sg.theme('SystemDefault')
     
-    menu_def = [['&Archivo', ['!&Abrir', '&Guardar::guardarkey', '---', '&Propiedades', 'E&xit']],
-            ['!&Edit', ['!&Paste', ['Special', 'Normal', ], 'Undo'], ],
-            ['&Ventanas nuevas', ['Ventana &1', 'Ventana &2']],
-            ['&Ayuda', '&Acerca de...'], ]
+    menu_def = [['&Ayuda', '&Acerca de...']]
     
     layout = [
         [sg.Menu(menu_def)],

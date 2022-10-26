@@ -1,38 +1,29 @@
 [
     {
-        "-TITULO-": 0,
-        "-COMPLEJIDAD-": "asd",
-        "-TIEMPO-": "234234",
-        "-INGREDIENTES-": "234234234",
-        "-RECETA-": "234234234",
-        "-CATEGORIA-": "tipo1",
+        "-TITULO-": "Tarta de calabaza",
+        "-CATEGORIA-": "Pan y boller\u00eda",
+        "-COMPLEJIDAD-": "facil",
+        "-TIEMPO-": 60,
+        "-INGREDIENTES-": " Para la base\n150 gramos de galletas molidas o picadas\n80 gramos de mantequilla\n1 cucharada postre de canela\n1 cucharada postre de jengibre ( opcional)\nPara el relleno\n500 gramos de calabaza cocida\n100 gramos de az\u00facar (\u00bd taza)\n200 mililitros de nata o crema de leche\n3 huevos\n1 cucharada postre de canela",
+        "-RECETA-": "1\nPara empezar con la torta de calabaza f\u00e1cil, primero cuece la calabaza, pela y limpia bien para retirar las pipas. A continuaci\u00f3n, corta en trozos y a\u00f1ade en un bol tapado con papel film, introduce en el microondas unos 8-10 minutos a m\u00e1xima potencia hasta que est\u00e9 cocida. Luego, chafa con un tenedor o tritura si lo deseas. Deja que se enfr\u00ede.\n\n2\nPor otro lado, prepara la base de la tarta. Para ello, tritura las galletas, a\u00f1\u00e1delas en un bol con la mantequilla derretida, la canela y un poquito de jengibre, mezcla bien hasta que queden los dos ingredientes bien integrados.\n\n3\nCubre la base con la masa de las galletas en un molde de unos 20-22 cm de ancho. A continuaci\u00f3n, con una cuchara o con el culo de un vaso, aplasta bien la masa para que quede bien compacta. Luego, enciende el horno a 180 \u00baC, introduce en el horno unos 5-8 minutos con la base de galletas. Pasado este tiempo, retira.\n\n4\nPrepara la crema de calabaza. Para ello, en un bol a\u00f1ade los tres huevos con el az\u00facar y bate un poco. Luego, pasaremos a la batidora, ahora solo mezcla.\n\n5\nA\u00f1ade la nata, mezcla y, seguido, incorpora la calabaza cocida y hecha pur\u00e9, a\u00f1ade tambi\u00e9n una pizca de canela. Mezcla todo bien.\n\n6\nSi no te gusta encontrar los hilos de la calabaza, ser\u00e1 mejor triturar la crema, quedar\u00e1 m\u00e1s fina.\n\n7\nA\u00f1ade la crema sobre la base de galletas, introduce en el horno, concretamente en el medio con calor arriba y abajo a 180 \u00baC. Vigila que no se queme la parte superior de la tarta.\n\n8\nCuando pasen unos 20 minutos aproximadamente, pincha con un palillo en el centro y, si el palillo sale seco, estar\u00e1 el pastel de calabaza. Por el contrario, d\u00e9jalo un poco m\u00e1s, tardar\u00e1 unos 30 minutos dependiendo del horno. Cuando est\u00e9 listo, deja enfriar y, a la hora de servir, espolvorea con un poco de canela en polvo.",
         "id": 1
     },
     {
-        "-TITULO-": "TEST1",
-        "-CATEGORIA-": "Aves y caza",
-        "-COMPLEJIDAD-": "MEDIA",
-        "-TIEMPO-": 60,
-        "-INGREDIENTES-": "VARIAS COSAS",
-        "-RECETA-": "QUE TAL PASCUAL",
+        "-TITULO-": "Espagueti rojo con jitomate",
+        "-CATEGORIA-": "Pasta",
+        "-COMPLEJIDAD-": "media",
+        "-TIEMPO-": 90,
+        "-INGREDIENTES-": "200 gotas de pasta de espagueti\n4 jitomates\n1 trozo de cebolla\n1 diente de ajo\n200 gramos de crema \u00e1cida\n1 cubo de caldo de pollo\n2 litros de agua\nsal al gusto\n1 cucharadita de aceite\n3 hojas de cilantro\n100 gramos de queso panela o queso fresco",
+        "-RECETA-": "1\nPara hacer la receta de espagueti rojo con jitomate, primero cocina la pasta de acuerdo con las instrucciones del empaque, normalmente por cada 100 g de pasta se necesita 1 litro de agua y se cocina 8-10 minutos. Adem\u00e1s, si lo deseas, puedes agregar sal al gusto. Cuando est\u00e9 lista la pasta, drena el agua y reserva en un recipiente mientras contin\u00faas con la receta.\n\n2\n\nPara la salsa de jitomate, corta en trozos los jitomates y lleva a una sart\u00e9n con una cucharadita de aceite. A continuaci\u00f3n, a\u00f1ade tambi\u00e9n la cebolla y el diente de ajo. Cocina moviendo constantemente durante unos 5 minutos o hasta que los jitomates est\u00e9n dorados.\n\n3\n\nLleva los jitomates, la cebolla y el diente de ajo a licuar junto con una taza y media de agua o caldo de pollo. Licua muy bien durante m\u00ednimo 3 minutos, lo ideal es que quede una salsa ligera, pero un poco espesa.\n\n4\n\nDespu\u00e9s de licuar, vac\u00eda la salsa en una olla con un chorrito de aceite, agrega el cubo de caldo de pollo y deja sofre\u00edr por unos 3 minutos. Tambi\u00e9n puedes sazonar con un poco de sal.\n\n5\n\nCuando se haya sofrito la salsa de jitomate, vac\u00eda la crema \u00e1cida y el espagueti ya cocido, mezcla muy bien. Es importante que se integre muy bien la pasta en la salsa y la crema se combine tambi\u00e9n. Deja cocinar a fuego medio bajo por solo 3 minutos m\u00e1s, comprueba el sabor del spaghetti con tomate y crema y, si observas que es necesario, agrega m\u00e1s sal al gusto.\n\n6\n\nPara servir, agrega un poco de queso desmoronado o rallado y decora con algunas hojitas de cilantro.",
         "id": 2
     },
     {
-        "-TITULO-": "test",
-        "-CATEGORIA-": "Aperitivos y tapas",
-        "-COMPLEJIDAD-": "asf",
-        "-TIEMPO-": 54,
-        "-INGREDIENTES-": "sdf",
-        "-RECETA-": " sadfsd fsdf",
+        "-TITULO-": "Flan con leche de avena",
+        "-CATEGORIA-": "Postres",
+        "-COMPLEJIDAD-": "dificil",
+        "-TIEMPO-": 120,
+        "-INGREDIENTES-": "5 huevos\n125 gramos de az\u00facar\n500 mililitros de leche de avena\n1 bote de caramelo l\u00edquido\n1 cucharada postre de harina de ma\u00edz (maicena)\n1 cucharadita de aroma de vainilla",
+        "-RECETA-": "Para empezar con la receta de flan con leche de avena, primero debes encender el horno a 170 \u00baC con calor arriba y abajo. A continuaci\u00f3n, en un bol a\u00f1ade los huevos y el az\u00facar, bate muy bien.\n\n2\n\nCuando est\u00e9 bien batida la mezcla anterior, a\u00f1ade la leche de avena, incorp\u00f3rala y remueve bien.\n\n3\n\nA\u00f1ade la esencia de vainilla y la cucharada de harina de ma\u00edz (maicena), esta \u00faltima es opcional, pero de esta manera quedar\u00e1 m\u00e1s compacto el flan con leche vegetal. A continuaci\u00f3n, bate bien y mezcla hasta que la harina de ma\u00edz se haya disuelto.\n\n4\n\nPasa la mezcla por un colador para que no queden restos de clara de huevo.\n\nTruco: este paso debes realizarlo, por el contrario, no quedar\u00e1 el flan de avena bien cuajado.\n\n5\n\nAdquiere una olla amplia o una bandeja apta para horno y coloca los moldes de los flanes. A continuaci\u00f3n, a\u00f1ade 1-2 vasos de agua en la bandeja para que se cocinen al ba\u00f1o mar\u00eda. Seguido, coloca las flaneras y cubre el fondo de los moldes y por los lados con caramelo l\u00edquido, con ayuda de un cuchar\u00f3n a\u00f1ade la mezcla del flan sin llegar al borde. Introduce la olla amplia o la cazuela con los flanes en el horno, deben permanecer aproximadamente unos 45 minutos, seg\u00fan el horno.\n\nPuedes elaborar el caramelo l\u00edquido casero con esta receta que te proporcionamos. En nuestro caso lo hemos comprado ya hecho.\n\nTruco: el agua de la bandeja debe quedar por la mitad de las flaneras, debes tener cuidado de que no entre agua en los flanes.\n\n6\n\nCuando observes que est\u00e1n dorados por la parte superior, debes pinchar con un palillo en el centro y, si sale seco, estar\u00e1n listos. Sin embargo, debes dejarlos en el interior del horno durante 10 minutos antes de retirarlos. Cuando pase el tiempo estimado, retira la fuente del horno y deja enfriar los flanes con leche de avena a temperatura ambiente. \u00bfQu\u00e9 te est\u00e1 pareciendo este flan de huevo con leche vegetal?\n\nTruco: tambi\u00e9n puedes elaborar el flan con leche de avena sin horno.\n\n7\n\nA continuaci\u00f3n, introduce los flanes con leche de avena en la nevera para que se terminen de enfriar y sirve.",
         "id": 3
-    },
-    {
-        "-TITULO-": "test",
-        "-CATEGORIA-": "C\u00f3cteles y bebidas",
-        "-COMPLEJIDAD-": "3",
-        "-TIEMPO-": 56,
-        "-INGREDIENTES-": "ergee",
-        "-RECETA-": " fgdfg",
-        "id": 4
     }
 ]
