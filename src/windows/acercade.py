@@ -15,5 +15,5 @@ def build():
         [sg.Text("""lorem ipsum dolor sit amet, consectetur adipiscing elit, sed""", font=(font_name, font_size_1))]
     ]
 
-    window = sg.Window('Acerca de Recetas 0.1a', layout, font=(font_name,font_size_3), modal=True)
+    window = sg.Window('Acerca de Recetas 0.1a', layout, font=(font_name,font_size_3), modal=True, icon=r'src/resources/images/Recetas.ico')
     return window

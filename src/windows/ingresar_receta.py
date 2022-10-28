@@ -18,6 +18,6 @@ def build():
         [sg.Button("Guardar", size=(10, 1), key='-GUARDAR-', bind_return_key=True)]
     ]
     
-    window = sg.Window('Agregar receta', layout, font=(font_size_1), modal=True)
+    window = sg.Window('Agregar receta', layout, font=(font_size_1), modal=True, icon=r'src/resources/images/Recetas.ico')
     
     return window

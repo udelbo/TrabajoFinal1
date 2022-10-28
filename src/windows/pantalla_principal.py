@@ -20,8 +20,8 @@ def build():
         [sg.Button("Agregar receta", key="-INGRESAR_RECETA-", font=(font_name, font_size_1))],
         [sg.Table(values=[["-","-","-","-","-","-"]], key="-TABLA_RECETAS-", 
                 justification="c", enable_events=True, enable_click_events=True, 
-                headings=[" Título ", " Complejidad ", " Tiempo ", " Ingredientes ", " Receta ", " Categoria "],
-                row_height=20, num_rows=8, header_background_color="#009AAE", header_text_color="#FFFFFF"
+                headings=["   Título   ", "Complejidad", "Tiempo", "  Ingredientes  ", "  Receta  ", " Categoria "],
+                row_height=18, num_rows=8, header_background_color="#009AAE", header_text_color="#FFFFFF"
         )],
         [sg.Text('Receta seleccionada', font=(font_name, font_size_2), size=(30, 1))],  
         [sg.HorizontalSeparator()], 
@@ -35,6 +35,6 @@ def build():
         
     ]
     
-    window = sg.Window("Sistema Recetas 0.1a", layout=layout, resizable=True, finalize=True)
+    window = sg.Window("Sistema Recetas 0.1a", layout=layout, resizable=True, finalize=True, icon=r'src/resources/images/Recetas.ico')
     
     return window
