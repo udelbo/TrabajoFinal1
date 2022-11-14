@@ -1,7 +1,7 @@
 import sys, os
 import PySimpleGUI as sg
 from src.consts.font import *
-
+from src.component.img_ruta_absoluta import resource_path
 
 def resource_path(relative_path):
     """ Obtiene la ruta absoluta a un recurso, funciona para dev y para PyInstaller """

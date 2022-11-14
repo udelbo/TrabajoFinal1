@@ -157,6 +157,10 @@
    'C:\\Users\\dinastia\\Mi unidad\\ULISES\\Curso Python PysimpleGui desktop '
    '2022 gba\\TrabajoFinal\\src\\windows\\acercade.py',
    'PYMODULE'),
+  ('src.component.img_ruta_absoluta',
+   'C:\\Users\\dinastia\\Mi unidad\\ULISES\\Curso Python PysimpleGui desktop '
+   '2022 gba\\TrabajoFinal\\src\\component\\img_ruta_absoluta.py',
+   'PYMODULE'),
   ('src.consts.font',
    'C:\\Users\\dinastia\\Mi unidad\\ULISES\\Curso Python PysimpleGui desktop '
    '2022 gba\\TrabajoFinal\\src\\consts\\font.py',
