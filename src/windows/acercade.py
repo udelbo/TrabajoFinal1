@@ -1,12 +1,12 @@
 import PySimpleGUI as sg
 from src.consts.font import *
-
+from src.component.img_ruta_absoluta import resource_path
 
 sg.theme('SystemDefault')
 
 def build():
 
-    imagen = sg.Image("src/resources/images/pysimplegui.png")
+    imagen = sg.Image(resource_path("src/resources/images/pysimplegui.png"))
 
     layout = [
         [sg.Text('Acerca de...', font=(font_name, font_size_2))],
